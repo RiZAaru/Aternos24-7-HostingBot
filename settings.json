@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " SMP2WeekPhase.aternos.me",
+    "ip": "SMP2WeekPhase.aternos.me",
     "port": 22387,
     "version": "",
     "try-creative": false
